@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/config.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/editcut.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/ok.png</file>
+        <file>icons/restart.png</file>
+        <file>icons/viewmag+.png</file>
+        <file>icons/viewmag-.png</file>
+        <file>icons/back.png</file>
+        <file>icons/add.png</file>
+        <file>icons/down.png</file>
+        <file>icons/up.png</file>
+    </qresource>
+</RCC>
